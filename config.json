@@ -1,0 +1,53 @@
+{
+    "prompt": "Musical constellations twinkling in the night sky",
+    "negative_prompt": "",
+    "steps": 200,
+    "guidance": 3.5,
+    "seed": -1,
+    "duration": 10.0,
+    "chunk_size": 10.0,
+    "variations": 1,
+    "geometry": "base64:AdnQywADAAAAAAFoAAAAbQAABhcAAAOrAAABaAAAAIwAAAYXAAADqwAAAAAAAAAAB4AAAAFoAAAAjAAABhcAAAOr",
+    "windowState": "base64:AAAA/wAAAAD9AAAAAAAABLAAAAL1AAAABAAAAAQAAAAIAAAACPwAAAAA",
+    "left_tab": 0,
+    "right_tab": 0,
+    "model": "cvssp/audioldm2",
+    "device": "cuda",
+    "cache_dir": "E:\\cacheAI",
+    "output_dir": "E:\\YoutubeProjects\\AIApps\\AudioLDM\\generated_audio",
+    "section": "",
+    "normalize": true,
+    "trim": true,
+    "fade_in": true,
+    "fade_out": true,
+    "cpu_offload": false,
+    "batch_variations": 1,
+    "batch_delay": 1.0,
+    "batch_continue_on_error": true,
+    "volume": 50,
+    "prompt_history": [
+        "Musical constellations twinkling in the night sky"
+    ],
+    "history": [
+        {
+            "chunked_generation": false,
+            "device": "cuda",
+            "duration": 10.0,
+            "filename": "1786525275_Musical_constellations_twinkli.wav",
+            "generation_time": 45.768921852111816,
+            "guidance": 3.5,
+            "model": "cvssp/audioldm2",
+            "negative_prompt": "",
+            "num_chunks": 1,
+            "path": "E:\\YoutubeProjects\\AIApps\\AudioLDM\\generated_audio\\1786525275_Musical_constellations_twinkli.wav",
+            "prompt": "Musical constellations twinkling in the night sky",
+            "sample_rate": 16000,
+            "seed": 1966318408,
+            "steps": 200,
+            "timestamp": "2026-08-12T05:01:15.669694",
+            "total_variations": 1,
+            "variation": 1
+        }
+    ],
+    "last_audio_path": "E:\\YoutubeProjects\\AIApps\\AudioLDM\\generated_audio\\1786525275_Musical_constellations_twinkli.wav"
+}
